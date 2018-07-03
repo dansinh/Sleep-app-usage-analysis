@@ -1,2 +1,1 @@
-# Sleep-app-usage-analysis
-Consulting project
+This is a consulting project I did for a technology company to analyze some of their data on a sleep coaching app. The app, developed by a team of sleep scientists, aims to help people with sleep problems to sleep better by, among others, offering personalized coaching, sending notifications, and providing videos to its subscribers. I provided an exploratory data analysis, a predictive model of user playing the videos on their app, and an estimation of the impact of app usage on sleep hours, using a combination of hierarchical linear model, nonparametric bootstrap sampling, XGBoost, and Super Learner.
